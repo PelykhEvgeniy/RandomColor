@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width:1220px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.box{
+   min-height: 50vh;
+}
+.box__mouse{
+    font-size: 22px;
+    font-weight: 900;
+    color: #000;
+    
+}
